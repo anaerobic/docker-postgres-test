@@ -6,4 +6,4 @@ gosu postgres postgres --single <<- EOSQL
    GRANT ALL PRIVILEGES ON DATABASE docker to docker;
 EOSQL
 echo ""
-echo "******DOCKER DATABASE CREATED******""
+echo "******DOCKER DATABASE CREATED******"
